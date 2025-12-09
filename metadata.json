@@ -1,0 +1,7 @@
+{
+  "name": "Hand Bones Arena",
+  "description": "A cyberpunk 2D physics PvP game controlled by your actual hand movements via webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
